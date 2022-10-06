@@ -1,9 +1,7 @@
 package tarea1;
 
-public class Tarea {
-
+public class TareaRama2 {
 	public static void main(String[] args) {
-		System.out.println("Hago merge");
+		System.out.println("Soy el paso 3");
 	}
-
 }
